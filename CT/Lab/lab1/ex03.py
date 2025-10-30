@@ -1,0 +1,5 @@
+s = str(input("Nhap chuoi: "))
+print("do dai chuoi: ", len(s))
+print("chuoi in thuong: ", s.lower())
+print("chuoi in hoa: ", s.upper())
+print("chuoi dao nguoc: ", s[::-1])

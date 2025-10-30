@@ -1,0 +1,3 @@
+[log]: Start
+[log]: Processing...
+[log]: Finish!

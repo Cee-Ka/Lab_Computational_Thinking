@@ -1,0 +1,6 @@
+x = str(input("Nhap ten: ")) 
+y = int(input("Nhap tuoi: "))
+z = float(input("Nhap chieu cao: "))
+print("Ten: ", x)
+print("Tuoi: ", y)
+print("Chieu cao: ", z, "m")
